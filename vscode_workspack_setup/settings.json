@@ -1,0 +1,28 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        {
+            "column": 100,
+            "color": "#d4d3df"
+        }
+    ],
+    "editor.lineNumbers": "relative",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3fcfff44",
+        "titleBar.activeBackground": "#3fcfff44",
+        "titleBar.activeForeground": "#06a0f3",
+        "icon.foreground": "#0127fc",
+        "symbolIcon.colorForeground": "#ff0000",
+        "icon.colorForeground": "#ff0000",
+        "activityBar.inactiveForeground": "#3a3248"
+    },
+    "workbench.colorTheme": "Harmonic16 Light Theme",
+
+    "vim.useSystemClipboard": true,
+    "vim.highlightedyank.enable": true,
+
+    "C_Cpp.errorSquiggles": "enabled"
+}
