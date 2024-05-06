@@ -21,6 +21,10 @@
     },
     "workbench.colorTheme": "Harmonic16 Light Theme",
 
+    "powermode.enabled": true,
+    "powermode.shake.enabled": false,
+    "powermode.explosions.enabled": false,
+
     "vim.useSystemClipboard": true,
     "vim.highlightedyank.enable": true,
 
