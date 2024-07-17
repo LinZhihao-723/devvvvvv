@@ -14,6 +14,7 @@
         - PIC & GOT
         - Lazy bind
     - [What is an ABI][5]
+    - [Let the compiler do its job][12]
 
 * UB
     - ["Undefined Behavior in C++"][4]
@@ -39,3 +40,4 @@
 [9]: https://releases.llvm.org/16.0.0/tools/clang/tools/extra/docs/clang-tidy/checks/modernize/pass-by-value.html
 [10]: https://www.youtube.com/watch?v=z6s6bacI424
 [11]: https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html#es42-keep-use-of-pointers-simple-and-straightforward
+[12]: https://www.youtube.com/watch?v=bSkpMdDe4g4
