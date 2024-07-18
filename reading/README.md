@@ -26,8 +26,10 @@
     - [Modernize pass by value (constructor)][9]
     - [Use East Const][10]
     - [Keep pointers simple][11]
-
-
+ 
+* Error Handling
+    - [Exception Design][13]
+    - [std::error_code][14]
 
 [1]: https://www.youtube.com/watch?v=D7Sd8A6_fYU
 [2]: https://www.youtube.com/watch?v=YnWhqhNdYyk
@@ -41,3 +43,5 @@
 [10]: https://www.youtube.com/watch?v=z6s6bacI424
 [11]: https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html#es42-keep-use-of-pointers-simple-and-straightforward
 [12]: https://www.youtube.com/watch?v=bSkpMdDe4g4
+[13]: https://www.youtube.com/watch?v=Oy-VTqz1_58
+[14]: https://www.youtube.com/watch?v=dQaRLmM7KKk
