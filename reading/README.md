@@ -29,7 +29,8 @@
  
 * Error Handling
     - [Exception Design][13]
-    - [std::error_code][14]
+    - [<system_error>][14]
+    - [std::error_code][15]
 
 [1]: https://www.youtube.com/watch?v=D7Sd8A6_fYU
 [2]: https://www.youtube.com/watch?v=YnWhqhNdYyk
@@ -44,4 +45,5 @@
 [11]: https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html#es42-keep-use-of-pointers-simple-and-straightforward
 [12]: https://www.youtube.com/watch?v=bSkpMdDe4g4
 [13]: https://www.youtube.com/watch?v=Oy-VTqz1_58
-[14]: https://www.youtube.com/watch?v=dQaRLmM7KKk
+[14]: https://www.youtube.com/watch?v=hNaLf8lYLDo
+[15]: https://www.youtube.com/watch?v=dQaRLmM7KKk
