@@ -39,6 +39,10 @@
 * Memory Model
     - [Memory model in Morden C++][18]
 
+## Software Maintainance
+
+- [Semantic Versioning][19]
+
 [1]: https://www.youtube.com/watch?v=D7Sd8A6_fYU
 [2]: https://www.youtube.com/watch?v=YnWhqhNdYyk
 [3]: https://www.youtube.com/watch?v=_enXuIxuNV4
@@ -57,3 +61,4 @@
 [16]: https://www.youtube.com/watch?v=PEcy1vYHb8A
 [17]: https://www.youtube.com/watch?v=Rfu06XAhx90
 [18]: https://www.youtube.com/watch?v=SVEYNEWZLo4
+[19]: https://semver.org/
