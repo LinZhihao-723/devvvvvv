@@ -20,3 +20,15 @@ let &t_SI = "\e[5 q"
 let &t_EI = "\e[ q"
 
 highlight Cursor guifg=red guibg=black
+
+let data_dir = has('nvim') ? stdpath('data') . '/site' : '~/.vim'
+if empty(glob(data_dir . '/autoload/plug.vim'))
+    silent execute '!curl -fLo '.data_dir.'/autoload/plug.vim --create-dirs  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+    autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
+endif
+
+" Plugin
+call plug#begin()
+
+call plug#end()
+
