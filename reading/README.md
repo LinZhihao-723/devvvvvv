@@ -2,6 +2,8 @@
 
 ## C++
 
+* [Compiler Supports][20]
+
 * C++ vs. C
     - [Talking to C Programmers about C++][1]
         - "If you are arguing, you are losing"
@@ -62,3 +64,4 @@
 [17]: https://www.youtube.com/watch?v=Rfu06XAhx90
 [18]: https://www.youtube.com/watch?v=SVEYNEWZLo4
 [19]: https://semver.org/
+[20]: https://en.cppreference.com/w/cpp/compiler_support
