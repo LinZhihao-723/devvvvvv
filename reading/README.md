@@ -45,6 +45,10 @@
 
 - [Semantic Versioning][19]
 
+## CPython
+
+- [PyObjects and Reference Counting][21]
+
 [1]: https://www.youtube.com/watch?v=D7Sd8A6_fYU
 [2]: https://www.youtube.com/watch?v=YnWhqhNdYyk
 [3]: https://www.youtube.com/watch?v=_enXuIxuNV4
@@ -65,3 +69,4 @@
 [18]: https://www.youtube.com/watch?v=SVEYNEWZLo4
 [19]: https://semver.org/
 [20]: https://en.cppreference.com/w/cpp/compiler_support
+[21]: https://pythonextensionpatterns.readthedocs.io/en/latest/refcount.html#pyobjects-and-reference-counting
