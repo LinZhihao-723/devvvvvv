@@ -28,7 +28,7 @@
     - [Modernize pass by value (constructor)][9]
     - [Use East Const][10]
     - [Keep pointers simple][11]
- 
+
 * Error Handling
     - [Exception Design][13]
     - [<system_error>][14]
@@ -44,6 +44,7 @@
 ## Software Maintainance
 
 - [Semantic Versioning][19]
+- [Conventional Commits][22]
 
 ## CPython
 
@@ -70,3 +71,4 @@
 [19]: https://semver.org/
 [20]: https://en.cppreference.com/w/cpp/compiler_support
 [21]: https://pythonextensionpatterns.readthedocs.io/en/latest/refcount.html#pyobjects-and-reference-counting
+[22]: https://www.conventionalcommits.org
