@@ -1,0 +1,8 @@
+[wsl2]
+memory=48GB
+processors=8
+swap=18GB
+localhostForwarding=true
+
+[experimental]
+autoMemoryReclaim=gradual
