@@ -41,6 +41,9 @@
 * Memory Model
     - [Memory model in Morden C++][18]
 
+* C++ with Rust
+    - [Bridging C++ and Rust][23]
+
 ## Software Maintainance
 
 - [Semantic Versioning][19]
@@ -72,3 +75,4 @@
 [20]: https://en.cppreference.com/w/cpp/compiler_support
 [21]: https://pythonextensionpatterns.readthedocs.io/en/latest/refcount.html#pyobjects-and-reference-counting
 [22]: https://www.conventionalcommits.org
+[23]: https://www.youtube.com/watch?v=RccCeMsXW0Q
