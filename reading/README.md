@@ -2,6 +2,10 @@
 
 ## C++
 
+* [The worst programming language of all time][24]
+    - This is all (almost) you need to know about why C++ is fxxked.
+    - Use Rust instead.
+
 * [Compiler Supports][20]
 
 * C++ vs. C
@@ -76,3 +80,4 @@
 [21]: https://pythonextensionpatterns.readthedocs.io/en/latest/refcount.html#pyobjects-and-reference-counting
 [22]: https://www.conventionalcommits.org
 [23]: https://www.youtube.com/watch?v=RccCeMsXW0Q
+[24]: https://www.youtube.com/watch?v=7fGB-hjc2Gc
