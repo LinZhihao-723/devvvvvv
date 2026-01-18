@@ -1,5 +1,9 @@
 # READING
 
+## Rust
+
+* [How to implement `async_trait`][25]
+
 ## C++
 
 * [The worst programming language of all time][24]
@@ -81,3 +85,4 @@
 [22]: https://www.conventionalcommits.org
 [23]: https://www.youtube.com/watch?v=RccCeMsXW0Q
 [24]: https://www.youtube.com/watch?v=7fGB-hjc2Gc
+[25]: https://www.youtube.com/watch?v=9RsgFFp67eo
